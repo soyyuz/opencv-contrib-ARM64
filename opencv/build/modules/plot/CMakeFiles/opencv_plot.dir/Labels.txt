@@ -1,0 +1,19 @@
+# Target labels
+ Extra
+ opencv_plot
+ Module
+# Source files and their labels
+/home/epasholl/opencv/opencv_contrib-master/modules/plot/include/opencv2/plot.hpp
+ Extra
+ opencv_plot
+ Module
+/home/epasholl/opencv/opencv_contrib-master/modules/plot/src/plot.cpp
+ Extra
+ opencv_plot
+ Module
+/home/epasholl/opencv/opencv_contrib-master/modules/plot/src/precomp.hpp
+ Extra
+ opencv_plot
+ Module
+/home/epasholl/opencv/build/cvconfig.h
+/home/epasholl/opencv/build/opencv2/opencv_modules.hpp

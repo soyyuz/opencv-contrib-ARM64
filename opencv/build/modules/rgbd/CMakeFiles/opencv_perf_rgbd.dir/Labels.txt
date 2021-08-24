@@ -1,0 +1,17 @@
+# Target labels
+ Extra
+ opencv_rgbd
+ PerfTest
+# Source files and their labels
+/home/epasholl/opencv/opencv_contrib-master/modules/rgbd/perf/perf_main.cpp
+ Extra
+ opencv_rgbd
+ PerfTest
+/home/epasholl/opencv/opencv_contrib-master/modules/rgbd/perf/perf_tsdf.cpp
+ Extra
+ opencv_rgbd
+ PerfTest
+/home/epasholl/opencv/opencv_contrib-master/modules/rgbd/perf/perf_precomp.hpp
+ Extra
+ opencv_rgbd
+ PerfTest

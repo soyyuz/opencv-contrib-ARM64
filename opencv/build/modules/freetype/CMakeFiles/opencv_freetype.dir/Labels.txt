@@ -1,0 +1,19 @@
+# Target labels
+ Extra
+ opencv_freetype
+ Module
+# Source files and their labels
+/home/epasholl/opencv/opencv_contrib-master/modules/freetype/include/opencv2/freetype.hpp
+ Extra
+ opencv_freetype
+ Module
+/home/epasholl/opencv/opencv_contrib-master/modules/freetype/src/freetype.cpp
+ Extra
+ opencv_freetype
+ Module
+/home/epasholl/opencv/opencv_contrib-master/modules/freetype/src/precomp.hpp
+ Extra
+ opencv_freetype
+ Module
+/home/epasholl/opencv/build/cvconfig.h
+/home/epasholl/opencv/build/opencv2/opencv_modules.hpp

@@ -1,0 +1,17 @@
+# Target labels
+ Extra
+ opencv_wechat_qrcode
+ AccuracyTest
+# Source files and their labels
+/home/epasholl/opencv/opencv_contrib-master/modules/wechat_qrcode/test/test_main.cpp
+ Extra
+ opencv_wechat_qrcode
+ AccuracyTest
+/home/epasholl/opencv/opencv_contrib-master/modules/wechat_qrcode/test/test_qrcode.cpp
+ Extra
+ opencv_wechat_qrcode
+ AccuracyTest
+/home/epasholl/opencv/opencv_contrib-master/modules/wechat_qrcode/test/test_precomp.hpp
+ Extra
+ opencv_wechat_qrcode
+ AccuracyTest
